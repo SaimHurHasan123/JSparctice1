@@ -1,0 +1,38 @@
+#wrapper {
+    padding: 260px;
+       }
+       #l1 {
+           margin-bottom: 35px;
+    
+       }
+       #l1 #length {
+           border: 2px solid black;
+           border-radius: 5px;
+           padding: 7px 117px 13px 14px;
+       }
+       #b1 {
+           margin-top:35px;
+           margin-left: 4px;
+       }
+       #b1 #width {
+           border: 2px solid black;
+           border-radius: 5px;
+           padding: 7px 117px 13px 14px;
+       }
+       #s1 #submit {
+        margin: 37px 58px 50px 129px;
+        border: 2px solid black;
+        padding: 12px 13px 9px 18px;
+        text-align: center;
+        border-radius: 5px;
+        justify-content: center;
+        background-color: lightgray;
+    
+       }
+    #resultp {
+        margin-top: 10px;
+    }
+    .text1 {
+    text-align: center;
+    margin-left: 5px;
+    }
